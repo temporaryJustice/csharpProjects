@@ -1,0 +1,16 @@
+C:\Users\Ratatouille\source\repos\MovieWatcher\MovieWatcher\bin\Debug\net8.0-windows\MovieWatcher.exe
+C:\Users\Ratatouille\source\repos\MovieWatcher\MovieWatcher\bin\Debug\net8.0-windows\MovieWatcher.deps.json
+C:\Users\Ratatouille\source\repos\MovieWatcher\MovieWatcher\bin\Debug\net8.0-windows\MovieWatcher.runtimeconfig.json
+C:\Users\Ratatouille\source\repos\MovieWatcher\MovieWatcher\bin\Debug\net8.0-windows\MovieWatcher.dll
+C:\Users\Ratatouille\source\repos\MovieWatcher\MovieWatcher\bin\Debug\net8.0-windows\MovieWatcher.pdb
+C:\Users\Ratatouille\source\repos\MovieWatcher\MovieWatcher\obj\Debug\net8.0-windows\MovieWatcher.Form1.resources
+C:\Users\Ratatouille\source\repos\MovieWatcher\MovieWatcher\obj\Debug\net8.0-windows\MovieWatcher.csproj.GenerateResource.cache
+C:\Users\Ratatouille\source\repos\MovieWatcher\MovieWatcher\obj\Debug\net8.0-windows\MovieWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ratatouille\source\repos\MovieWatcher\MovieWatcher\obj\Debug\net8.0-windows\MovieWatcher.AssemblyInfoInputs.cache
+C:\Users\Ratatouille\source\repos\MovieWatcher\MovieWatcher\obj\Debug\net8.0-windows\MovieWatcher.AssemblyInfo.cs
+C:\Users\Ratatouille\source\repos\MovieWatcher\MovieWatcher\obj\Debug\net8.0-windows\MovieWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Ratatouille\source\repos\MovieWatcher\MovieWatcher\obj\Debug\net8.0-windows\MovieWatcher.dll
+C:\Users\Ratatouille\source\repos\MovieWatcher\MovieWatcher\obj\Debug\net8.0-windows\refint\MovieWatcher.dll
+C:\Users\Ratatouille\source\repos\MovieWatcher\MovieWatcher\obj\Debug\net8.0-windows\MovieWatcher.pdb
+C:\Users\Ratatouille\source\repos\MovieWatcher\MovieWatcher\obj\Debug\net8.0-windows\MovieWatcher.genruntimeconfig.cache
+C:\Users\Ratatouille\source\repos\MovieWatcher\MovieWatcher\obj\Debug\net8.0-windows\ref\MovieWatcher.dll
